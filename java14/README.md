@@ -1,5 +1,5 @@
 # JAVA 14 주요 변경점
-## JAVA 12 ~ 13의 preview switch 문법 정식 도입
+## JAVA 12 ~ 13의 switch 문법 정식 도입
 ### 이전
 * C, C++ 형태의 Switch 문법
 * 불필요한 반복 코드
